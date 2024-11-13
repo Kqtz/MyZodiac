@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">MyZodiac</string>
+    <string name="hint_date_of_birth">Fecha de nacimiento</string>
+    <string name="buttonObtenerSigno">Mostrar signo zodiacal</string>
+    <string name="error_no_date">Por favor ingrese su fecha de nacimiento</string>
+    <string name="invalid_date">Fecha de nacimiento imposible</string>
+    <string name="blanco">ㅤㅤㅤ </string>
+    <string name="age_text">Edad: %1$d años</string>
+    <string name="zodiac_sign_and_age_placeholder">Tu signo zodiacal y edad aparecerán aquí</string>
+    <string name="zodiac_image_description">Imagen del signo zodiacal</string>
+</resources>

@@ -1,0 +1,28 @@
+<!-- res/layout/activity_zodiac.xml -->
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#F6F5EA"
+    android:backgroundTint="#B578EF"
+    android:gravity="center"
+    android:orientation="vertical"
+    android:padding="16dp">
+
+    <TextView
+        android:id="@+id/textViewZodiacSignAndAge"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="16dp"
+        android:text="@string/zodiac_sign_and_age_placeholder"
+        android:textColor="@color/black"
+        android:textSize="18sp" />
+
+    <ImageView
+        android:id="@+id/imageViewZodiacSign"
+        android:layout_width="351dp"
+        android:layout_height="566dp"
+        android:layout_marginTop="16dp"
+        android:contentDescription="@string/zodiac_image_description" />
+
+</LinearLayout>
